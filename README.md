@@ -5,7 +5,7 @@ Real-Time Face Mask Detection is a Python project that detects whether a person 
 ## Features
 
 - Real-time detection of face masks using a webcam or camera.
-- High accuracy in classifying face masks 95% .
+- High accuracy in classifying face masks 92% .
 
 ## Installation
 
